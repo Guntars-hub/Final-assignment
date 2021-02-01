@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(211, 211, 211, 0.589);
+}
+.card-body{
+    font-size:large;
+    font-weight:450;
+    background-color: rgba(211, 211, 211, 0.589);
+    padding-top:
+}
+.carousel .carousel-item {
+    height: 620px;
+    opacity: 0.7;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+  }
+  .whiteTitle {
+     margin-bottom: 20px;
+  }
+  .whiteP {
+    margin-bottom: 40px;
+  } 
+  .carousel-caption{
+    background-color:rgba(0, 0, 0, 0.589)
+  }
+
+  .navbar-nav {
+    margin-left: 100px;
+}
+
+.card-body {
+  text-align:center; 
+}
